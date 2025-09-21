@@ -1,4 +1,7 @@
 # scarymaze
+
+
+
 -- Initialize game state
 function _init()
     score = 0
