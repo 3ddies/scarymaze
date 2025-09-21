@@ -1,5 +1,4 @@
 # scarymaze
-#This is the code for our Pico 8 game
 -- Initialize game state
 function _init()
     score = 0
