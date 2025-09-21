@@ -1,2 +1,4 @@
 # scarymaze
-Pullup Pico8, drop the type the command "load" and drop the "ScaryMaze .p8" file into it
+
+How to play: 
+Pullup Pico8, type the "load" command into the terminal, and drop the "ScaryMaze .p8" file into it.
